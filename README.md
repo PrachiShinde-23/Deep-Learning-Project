@@ -7,7 +7,7 @@ Deep Learning Experiment is a Flask-based web application that demonstrates mult
 - Flask
 - TensorFlow & Keras
 - OpenCV
-- Transformers (GPT-2)
+- Transformers 
 - HTML, CSS, JavaScript
 
 ## ✨ Features
